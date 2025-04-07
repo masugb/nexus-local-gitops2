@@ -1,0 +1,21 @@
+apiVersion: provisioning-management.ifs.com/v1
+kind: Tenant
+metadata:
+  labels:
+    ifs.com/bg-set: bg2
+  name: xyz2
+spec:
+  customerId: starlink
+  suspended: false
+  metadata:
+    creationTimestamp: "2025-04-04T10:05:36Z"
+    customerCode: starlink
+    environmentName: cfg
+    region: westeurope
+    regionAreaCode: eu
+    regionShortCode: euwe
+    tenantShortId: starlinkcfg1juvbng
+    umids:
+    - xyz2
+  capabilities: []
+  requestGeneration: 10
