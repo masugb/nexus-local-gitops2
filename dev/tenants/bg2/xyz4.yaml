@@ -17,8 +17,5 @@ spec:
     tenantShortId: starlinkcfg1jv7cc0
     umids:
     - xyz4
-  capabilities:
-  - name: cp2
-    config: {}
-    suspended: false
-  requestGeneration: 11
+  capabilities: []
+  requestGeneration: 12
