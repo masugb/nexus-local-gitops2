@@ -17,8 +17,5 @@ spec:
     tenantShortId: starlinkcfg1juvbng
     umids:
     - xyz1
-  capabilities:
-  - name: ifs.ai.training
-    config: {}
-    suspended: false
+  capabilities: []
   requestGeneration: 8
