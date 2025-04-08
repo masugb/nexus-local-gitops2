@@ -19,6 +19,6 @@ spec:
     - xyz5
   capabilities:
   - name: cp2
-   config: {}
-   suspended: false
+    config: {}
+    suspended: false
   requestGeneration: 6
