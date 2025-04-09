@@ -18,5 +18,5 @@ spec:
     umids:
     - xyz5
   capabilities: 
-  - name: afp-certification-delay-prediction.inference
+  - name: cp3
   requestGeneration: 6
