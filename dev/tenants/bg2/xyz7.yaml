@@ -5,7 +5,7 @@ metadata:
     ifs.com/bg-set: bg2
   name: xyz7
 spec:
-  requestGeneration: 7
+  requestGeneration: 8
   customerId: customer_test
   suspended: false
   metadata:
@@ -18,7 +18,4 @@ spec:
     tenantShortId: customer_testcfg1jvp56n
     umids:
     - xyz7
-  capabilities:
-  - name: cp11
-    config: {}
-    suspended: false
+  capabilities: []
