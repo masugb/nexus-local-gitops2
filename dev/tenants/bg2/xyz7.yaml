@@ -5,7 +5,7 @@ metadata:
     ifs.com/bg-set: bg2
   name: xyz7
 spec:
-  requestGeneration: 1
+  requestGeneration: 2
   customerId: customer_test
   suspended: false
   metadata:
@@ -20,8 +20,5 @@ spec:
     - xyz7
   capabilities:
   - name: cp11
-    config: {}
-    suspended: false
-  - name: cp22
     config: {}
     suspended: false
