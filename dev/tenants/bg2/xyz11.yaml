@@ -17,5 +17,8 @@ spec:
     tenantShortId: customer_testcfg1jvejmn
     umids:
     - xyz11
-  capabilities: []
-  requestGeneration: 4
+  capabilities:
+  - name: cpbc
+    config: {}
+    suspended: false
+  requestGeneration: 5
