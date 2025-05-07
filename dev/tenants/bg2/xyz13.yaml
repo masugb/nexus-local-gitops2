@@ -18,10 +18,7 @@ spec:
     umids:
     - xyz13
   capabilities:
-  - name: cpbc
-    config: {}
-    suspended: false
   - name: cpbc2
     config: {}
     suspended: false
-  requestGeneration: 2
+  requestGeneration: 3
