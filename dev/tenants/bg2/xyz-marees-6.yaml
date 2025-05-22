@@ -17,8 +17,5 @@ spec:
     tenantShortId: nidecfg1k2m8r9
     umids:
     - xyz-marees-6
-  capabilities:
-  - name: cpbc1
-    config: {}
-    suspended: false
-  requestGeneration: 1
+  capabilities: []
+  requestGeneration: 2
