@@ -11,14 +11,11 @@ spec:
     creationTimestamp: "2025-05-19T12:26:17Z"
     customerCode: nide
     environmentName: cfg
-    region: northeurope
+    region: westeurope
     regionAreaCode: eu
-    regionShortCode: euno
+    regionShortCode: euwe
     tenantShortId: nidecfg1k2m8r9
     umids:
     - xyz-marees-14
-  capabilities:
-  - name: wo-generation-automation.invoice
-    config: {}
-    suspended: false
-  requestGeneration: 1
+  capabilities: []
+  requestGeneration: 2
