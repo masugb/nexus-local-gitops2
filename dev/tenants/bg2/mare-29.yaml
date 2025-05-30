@@ -1,0 +1,24 @@
+apiVersion: provisioning-management.ifs.com/v1
+kind: Tenant
+metadata:
+  labels:
+    ifs.com/bg-set: bg2
+  name: mare-29
+spec:
+  customerId: nide
+  suspended: false
+  metadata:
+    creationTimestamp: "2025-05-19T12:26:17Z"
+    customerCode: nide
+    environmentName: cfg
+    region: westeurope
+    regionAreaCode: eu
+    regionShortCode: euwe
+    tenantShortId: nidecfg1k2m8r9
+    umids:
+    - mare-29
+  capabilities:
+  - name: wo-generation-automation.invoice
+    config: {}
+    suspended: false
+  requestGeneration: 1
