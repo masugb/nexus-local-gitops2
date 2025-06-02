@@ -19,7 +19,7 @@ spec:
     umids:
     - x-mare-2
   capabilities:
-  - name: democapability
+  - name: wo-generation-automation.invoice
     config: {}
     suspended: false
-  requestGeneration: 1
+  requestGeneration: 2
