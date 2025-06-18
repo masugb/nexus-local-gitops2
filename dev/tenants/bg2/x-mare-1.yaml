@@ -22,4 +22,4 @@ spec:
   - name: afp-certification-delay-prediction.inference
     config: {}
     suspended: false
-  requestGeneration: 5
+  requestGeneration: 6
