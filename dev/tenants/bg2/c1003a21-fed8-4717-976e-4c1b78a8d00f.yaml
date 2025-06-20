@@ -1,0 +1,25 @@
+apiVersion: provisioning-management.ifs.com/v1
+kind: Tenant
+metadata:
+  labels:
+    ifs.com/bg-set: bg2
+  name: c1003a21-fed8-4717-976e-4c1b78a8d00f
+spec:
+  customerId: nide
+  suspended: false
+  metadata:
+    creationTimestamp: "2025-06-16T15:13:17Z"
+    customerCode: nide
+    environmentName: cfg
+    internal: false
+    region: westeurope
+    regionAreaCode: eu
+    regionShortCode: euwe
+    tenantShortId: nidecfg1k50d4d
+    umids:
+    - c1003a21-fed8-4717-976e-4c1b78a8d00f
+  capabilities:
+  - name: democapability
+    config: {}
+    suspended: false
+  requestGeneration: 1
