@@ -11,7 +11,7 @@ spec:
     creationTimestamp: "2025-06-16T15:13:17Z"
     customerCode: nide
     environmentName: cfg
-    internal: true
+    internal: false
     region: westeurope
     regionAreaCode: eu
     regionShortCode: euwe
@@ -22,4 +22,4 @@ spec:
   - name: wo-generation-automation.wo-generation-automation
     config: {}
     suspended: false
-  requestGeneration: 1
+  requestGeneration: 2
