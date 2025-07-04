@@ -1,0 +1,25 @@
+apiVersion: provisioning-management.ifs.com/v1
+kind: Tenant
+metadata:
+  labels:
+    ifs.com/bg-set: bg2
+  name: x-marees
+spec:
+  customerId: nide
+  suspended: false
+  metadata:
+    creationTimestamp: "2025-06-16T15:13:17Z"
+    customerCode: nide
+    environmentName: cfg
+    internal: true
+    region: westeurope
+    regionAreaCode: eu
+    regionShortCode: euwe
+    tenantShortId: nidecfg1k50d4d
+    umids:
+    - x-marees
+  capabilities:
+  - name: wo-generation-automation.wo-generation-automation
+    config: {}
+    suspended: false
+  requestGeneration: 1
